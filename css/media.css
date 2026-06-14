@@ -1,0 +1,24 @@
+@media (max-width: 1200px){
+    section.section-hero{
+    min-height: 200vh;
+    margin-top: 70px;
+    }
+}
+
+
+@media (max-width:632px){
+    nav.navbar .right i{
+       display: none;
+
+}
+
+section.section-hero{
+    min-height: 200vh;
+    margin-top: 70px;
+}
+
+#btn{
+   margin-left: -100px;
+   margin-right: -20px;
+}
+}
